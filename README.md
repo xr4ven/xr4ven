@@ -1,8 +1,8 @@
 <div align="center">
 
-  <!-- Top Animated RGB/Gradient Banner (Linked to guns.lol/x4ven with Bold Handwriting Font & Extended Height) -->
+  <!-- Top Animated Purple-to-Cyan Gradient Banner -->
   <a href="https://guns.lol/x4ven" target="_blank">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,30,28,0,45&height=230&section=header&text=XR4VEN&fontSize=70&fontColor=00E5FF&fontFamily=Permanent+Marker&animation=fadeIn" width="100%" alt="XR4VEN Header" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=9d4edd,00e5ff&height=230&section=header&text=XR4VEN&fontSize=70&fontColor=00E5FF&fontFamily=Permanent+Marker&animation=fadeIn" width="100%" alt="XR4VEN Header" />
   </a>
 
   <br />
@@ -21,10 +21,10 @@
 
   <br />
 
-  <!-- Purple to Light Blue Animated Loop Text -->
-  <svg width="100%" height="40" viewBox="0 0 600 40" xmlns="http://www.w3.org/2000/svg">
+  <!-- Animated Bio Section (SVG Hack for Continuous Color Loop) -->
+  <svg width="100%" height="240" viewBox="0 0 800 240" xmlns="http://www.w3.org/2000/svg">
     <defs>
-      <linearGradient id="purpleToCyan" x1="0%" y1="0%" x2="100%" y2="0%">
+      <linearGradient id="bioGradient" x1="0%" y1="0%" x2="100%" y2="0%">
         <stop offset="0%" stop-color="#9d4edd">
           <animate attributeName="stop-color" values="#9d4edd; #00e5ff; #9d4edd" dur="3s" repeatCount="indefinite" />
         </stop>
@@ -33,25 +33,20 @@
         </stop>
       </linearGradient>
     </defs>
-    <text x="50%" y="25" fill="url(#purpleToCyan)" font-family="Fira Code, monospace" font-size="17" font-weight="bold" text-anchor="middle">
-      ⚡ ARCHITECTING HIGH-PERFORMANCE ECOSYSTEMS & WEB SERVICES ⚡
-    </text>
+    
+    <g fill="url(#bioGradient)" font-family="Segoe UI, Helvetica, Arial, sans-serif" text-anchor="middle">
+      <text x="50%" y="30" font-size="24" font-weight="bold">👑 About XR4VEN</text>
+      
+      <text x="50%" y="75" font-size="16">Founder &amp; CEO of ATASOFT. Architecting high-scale web platforms,</text>
+      <text x="50%" y="98" font-size="16">custom backend APIs, iframe CAPTCHA integrations, and gaming infrastructures.</text>
+      
+      <text x="50%" y="140" font-size="16">🚀 Leadership: Leading 15+ developers and creators under ATASOFT.</text>
+      <text x="50%" y="165" font-size="16">💻 Primary Stack: PHP, HTML5/CSS3, JavaScript, Node.js, Python, C++.</text>
+      <text x="50%" y="190" font-size="16">🎮 Gaming &amp; Systems: Custom Skript architectures &amp; Minecraft Java ecosystems.</text>
+    </g>
   </svg>
 
 </div>
-
-<hr />
-
-### 👑 About XR4VEN
-
-Founder & CEO of **[ATASOFT](https://github.com/atasoftofficial)**. Architecting high-scale web platforms, custom backend APIs, iframe CAPTCHA integrations, Discord bot ecosystems, and gaming network infrastructures.
-
-* 🚀 **Leadership:** Leading 15+ developers and creators under ATASOFT.
-* 💻 **Primary Stack:** PHP, HTML5/CSS3, JavaScript, Node.js, Python, MySQL, C++.
-* 🎮 **Gaming & Systems:** Custom Skript & LuckPerms architectures, Minecraft Java infrastructures.
-* 🔗 **Personal Bio:** [guns.lol/x4ven](https://guns.lol/x4ven)
-* 🏢 **Corporate Hub:** [github.com/atasoftofficial](https://github.com/atasoftofficial)
-* 👤 **Personal Hub:** [github.com/xr4ven](https://github.com/xr4ven)
 
 <hr />
 
