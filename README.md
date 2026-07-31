@@ -2,7 +2,7 @@
 
   <!-- Top Animated RGB/Gradient Banner (Linked to guns.lol/x4ven with Bold Handwriting Font & Extended Height) -->
   <a href="https://guns.lol/x4ven" target="_blank">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,30,28,0,45&height=160&section=header&text=XR4VEN&fontSize=65&fontColor=00E5FF&animation=fadeIn" alt="XR4VEN Header" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=9d4edd,00e5ff&height=230&section=header&text=XR4VEN&fontSize=70&fontColor=00E5FF&fontFamily=Permanent+Marker&animation=fadeIn" alt="XR4VEN Header" />
   </a>
 
   <br />
