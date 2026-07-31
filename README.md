@@ -76,10 +76,10 @@ Founder & CEO of **[ATASOFT](https://github.com/atasoftofficial)**. Architecting
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/xr4ven">
-    <img src="https://img.shields.io/badge/Personal_GitHub-xr4ven-9d4edd?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/github/followers/xr4ven?label=Followers&style=for-the-badge&color=00d4ff&logo=github" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/atasoftofficial">
-    <img src="https://img.shields.io/badge/Corporate_GitHub-atasoftofficial-00e5ff?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/github/viewers/xr4ven?label=Viewers&style=for-the-badge&color=00d4ff&logo=github" />
   </a>
 </div>
