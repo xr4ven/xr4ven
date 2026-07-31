@@ -1,12 +1,14 @@
 <div align="center">
 
-  <!-- Top Animated RGB/Gradient Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,30,28,0,45&height=160&section=header&text=XR4VEN&fontSize=65&fontColor=00E5FF&animation=fadeIn" width="100%" alt="XR4VEN Header" />
+  <!-- Top Animated RGB/Gradient Banner (Linked to guns.lol/x4ven with Bold Handwriting Font & Extended Height) -->
+  <a href="https://guns.lol/x4ven" target="_blank">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,30,28,0,45&height=230&section=header&text=XR4VEN&fontSize=70&fontColor=00E5FF&fontFamily=Permanent+Marker&animation=fadeIn" width="100%" alt="XR4VEN Header" />
+  </a>
 
   <br />
 
   <!-- Logo -->
-  <a href="https://github.com/xr4ven">
+  <a href="https://guns.lol/x4ven" target="_blank">
     <img src="https://i.imgur.com/oC7WxS2.png" width="170" alt="XR4VEN Logo" style="border-radius: 50%; border: 3px solid #00E5FF;" />
   </a>
 
@@ -19,7 +21,7 @@
 
   <br />
 
-  <!-- Purple to Light Blue Animated Loop Text (Mordan Açık Maviye Renk Döngüsü) -->
+  <!-- Purple to Light Blue Animated Loop Text -->
   <svg width="100%" height="40" viewBox="0 0 600 40" xmlns="http://www.w3.org/2000/svg">
     <defs>
       <linearGradient id="purpleToCyan" x1="0%" y1="0%" x2="100%" y2="0%">
@@ -47,6 +49,7 @@ Founder & CEO of **[ATASOFT](https://github.com/atasoftofficial)**. Architecting
 * 🚀 **Leadership:** Leading 15+ developers and creators under ATASOFT.
 * 💻 **Primary Stack:** PHP, HTML5/CSS3, JavaScript, Node.js, Python, MySQL, C++.
 * 🎮 **Gaming & Systems:** Custom Skript & LuckPerms architectures, Minecraft Java infrastructures.
+* 🔗 **Personal Bio:** [guns.lol/x4ven](https://guns.lol/x4ven)
 * 🏢 **Corporate Hub:** [github.com/atasoftofficial](https://github.com/atasoftofficial)
 * 👤 **Personal Hub:** [github.com/xr4ven](https://github.com/xr4ven)
 
@@ -68,6 +71,10 @@ Founder & CEO of **[ATASOFT](https://github.com/atasoftofficial)**. Architecting
 <br />
 
 <div align="center">
+  <a href="https://guns.lol/x4ven" target="_blank">
+    <img src="https://img.shields.io/badge/Guns.lol-x4ven-00e5ff?style=for-the-badge&logo=linktree&logoColor=black" />
+  </a>
+  &nbsp;&nbsp;
   <a href="https://github.com/xr4ven">
     <img src="https://img.shields.io/badge/Personal_GitHub-xr4ven-9d4edd?style=for-the-badge&logo=github" />
   </a>
