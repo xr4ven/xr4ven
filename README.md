@@ -16,7 +16,7 @@
 
   <!-- Typewriter Effect (Daktilo Efekti) -->
   <a href="https://github.com/xr4ven">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=%E2%AD%90%EF%B8%8F+Founder+%26+CEO+@+ATASOFT;%E2%AD%90%EF%B8%8F+Backend+%26+Full-Stack+Developer;%E2%AD%90%EF%B8%8F+PHP+%2F+JavaScript+%2F+HTML5;%E2%AD%90%EF%B8%8F+Minecraft+Java+%26+Discord+Ecosystems;%E2%AD%90%EF%B8%8F+Awarded+Developer" alt="Typewriter Text" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=%E2%AD%90%EF%B8%8F+Founder+%26+CEO+@ATASOFT;%E2%AD%90%EF%B8%8F+Backend+%26+Full-Stack+Developer;%E2%AD%90%EF%B8%8F+PHP+%2F+JavaScript+%2F+HTML5;%E2%AD%90%EF%B8%8F+Minecraft+Java+%26+Discord+Ecosystems;%E2%AD%90%EF%B8%8F+Awarded+Developer" alt="Typewriter Text" />
   </a>
 
   <br />
