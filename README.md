@@ -9,7 +9,7 @@
 
   <!-- Logo -->
   <a href="https://guns.lol/x4ven" target="_blank">
-    <img src="https://i.imgur.com/oC7WxS2.png" width="170" alt="XR4VEN Logo" style="border-radius: 50%; border: 3px solid #00E5FF;" />
+    <img src="https://atasoft.xyz/ceopp12323865432x8341878asf783274.png" width="170" alt="XR4VEN Logo" style="border-radius: 50%; border: 3px solid #00E5FF;" />
   </a>
 
   <br /><br />
