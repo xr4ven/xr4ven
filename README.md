@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Top Animated RGB/Gradient Banner (Linked to guns.lol/x4ven with Bold Handwriting Font & Extended Height) -->
-  <a href="https://guns.lol/x4ven" target="_blank">
+  <a href="https://guns.lol/xr4ven" target="_blank">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,30,28,0,45&height=160&section=header&text=XR4VEN&fontSize=65&fontColor=00E5FF&animation=fadeIn" alt="XR4VEN Header" />
   </a>
 
@@ -71,7 +71,7 @@ Founder & CEO of **[ATASOFT](https://github.com/atasoftofficial)**. Architecting
 <br />
 
 <div align="center">
-  <a href="https://guns.lol/x4ven" target="_blank">
+  <a href="https://guns.lol/xr4ven" target="_blank">
     <img src="https://img.shields.io/badge/Guns.lol-x4ven-00e5ff?style=for-the-badge&logo=linktree&logoColor=black" />
   </a>
   &nbsp;&nbsp;
