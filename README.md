@@ -42,7 +42,7 @@
 
 <hr />
 
-### 👑 About XR4VEN
+### 👑 About Doruk D. Inan
 
 Founder & CEO of **[ATASOFT](https://github.com/atasoftofficial)**. Architecting high-scale web platforms, custom backend APIs, iframe CAPTCHA integrations, Discord bot ecosystems, and gaming network infrastructures.
 
